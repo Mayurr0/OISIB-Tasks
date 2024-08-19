@@ -1,2 +1,2 @@
 # OISIB-Tasks
-All Oasis Infobyte Java Intenship Tasks 1 to 5
+Oasis Infobyte Java Intenship all Tasks 1 to 5
